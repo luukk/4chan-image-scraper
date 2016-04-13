@@ -7,7 +7,7 @@
 
  scraps all your images of any 4chan board
  
- # dependencies
+  dependencies
 --------------
 * Python 2.x
 * Beautifulsoup
