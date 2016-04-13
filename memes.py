@@ -35,7 +35,7 @@ def get_board_images(board,amount):
         return imageUrl,imageSizes
 
 def bytesto(bytes, to, bsize=1024):
-    a = {'KB' : 1, 'MB': 2, 'GB' : 3, 'TB' : 4, 'PB' : 5, 'EB' : 6 }
+    a = {' B': 1,'KB' : 1, 'MB': 2, 'GB' : 3, 'TB' : 4, 'PB' : 5, 'EB' : 6 }
     r = float(bytes)
     for i in range(a[to]):
         r = r * bsize
