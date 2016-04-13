@@ -12,3 +12,4 @@
 * Python 2.x
 * Beautifulsoup
 * urllib
+* os
