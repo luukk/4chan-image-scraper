@@ -1,4 +1,4 @@
-# 4chan image scrapper
+# 4chan image scraper
 
 
 
